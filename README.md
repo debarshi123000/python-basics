@@ -1,9 +1,10 @@
 # python-basics
 Applicable for anybody wanting to get started with basics of the Python language
 
-•	Introduction to coding with Python
+Course Content
+
+•	Installing Python 3.9 on your system
 o	Overview
-o	Installing Python 3.9 on your system
 o	Enter programming commands directly into the Python Shell
 o	Write, save, run and modify short Python programs in IDLE
 o	Your First Python Program
